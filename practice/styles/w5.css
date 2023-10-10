@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: #737373;
+    margin: 0;
+}
+.hero{
+    width: 100%;
+}
+.hero img{
+    width: 100%;
+}
+.img-wrapper{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.circle-img{
+    border:10px solid #444444;
+    border-radius: 50%;
+    width: 300px;
+}
+.grid{
+    width: 33% !important;
+    display: inline-block;
+
+}
+/* .width_3{
+    width: auto;
+    display: inline-block;
+} */
