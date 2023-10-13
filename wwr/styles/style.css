@@ -24,6 +24,7 @@ nav a:hover{
 .home-title{
     color:white;
     font-family: 'Roboto';
+    font-weight: 700;
 }
 .book, .join{
     background-color:#9FC490;
@@ -41,6 +42,7 @@ nav a:hover{
 .msg h2{
     color:#011936;
     font-family: 'Roboto';
+    font-weight: 700;
 }
 .msg p {
     color:#011936;
