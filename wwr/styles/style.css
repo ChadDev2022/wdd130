@@ -2,6 +2,7 @@
 
 body{
     background-color: #011936;
+    color:white;
     font-family: 'Open Sans', 'Nunito','Calibri', sans-serif ;
     font-size: 22px;
     margin: 0;
@@ -14,12 +15,9 @@ header {
     width: 100%;
 }
 h2{
-    color: white;
     margin: 0;
 }
-h4{
-    color:white;
-}
+
 #logo_link{
     padding-top: 5px;
 }
