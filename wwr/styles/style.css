@@ -4,7 +4,7 @@ body{
     background-color: #011936;
     color:white;
     font-family: 'Open Sans', 'Nunito','Calibri', sans-serif ;
-    font-size: 22px;
+    font-size: 18px;
     margin: 0;
     padding: 0;
 }
@@ -58,7 +58,7 @@ h2{
 #hero-msg h4{
     color: white;
     text-align: center;
-    font-size: 0.8em;
+    font-size: 1.2em;
 }
 
 
@@ -70,7 +70,7 @@ h2{
     color:white;
     font-family: 'Roboto', 'Arial', 'Lucida Sans', sans-serif;
     font-weight: 700;
-    font-size: 1.8em;
+    font-size: 2.6em;
     margin-top: 10px;
 }
 .card-img{
@@ -158,6 +158,7 @@ footer{
 footer a {
     color:#011936;
     text-decoration: none;
+    font-size: 1em;
 }
 footer a:hover{
     color:white;
