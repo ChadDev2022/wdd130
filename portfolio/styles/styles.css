@@ -10,6 +10,16 @@ body{
     margin: 0;
     padding: 0;
 }
+.bg-contact{
+    background-image: url('../images/contacts.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    font-family: 'Open Sans', 'Noto sans','Calibri', sans-serif ;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
 #content{
     max-width: 1600px;
     margin:0 auto;
